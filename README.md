@@ -1,6 +1,6 @@
 # Anime-of-the-day-bot
 
-@animeofthedaybot - бот в телеграме, который может помочь пользователю с поиском новых аниме/манги. 
+@animeofthedaybot - бот в telegram, который может помочь пользователю с поиском новых аниме/манги. 
 
 Бот поддерживает английский язык и его краткое описание в Telegram выглядит так: "If you cannot find anything new to watch, let me deal with this problem!"
 
